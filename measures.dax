@@ -1,1 +1,22 @@
 dax/measures.dax
+// Recruitment Analytics — DAX Measures
+
+Total Jobs = COUNTROWS(FactJobs)
+
+Open Jobs =
+    CALCULATE(
+        COUNTROWS(FactJobs),
+        FactJobs[Status] = "Open"
+    )
+
+Closed Jobs =
+    CALCULATE(
+        COUNTROWS(FactJobs),
+        FactJobs[Status] = "Closed"
+    )
+
+Conversion Ratio =
+    DIVIDE(
+        CALCULATE(COUNTROWS(FactJobs), FactJobs[Status] = "Closed"),
+        COUNTROWS(FactJobs)
+    )
