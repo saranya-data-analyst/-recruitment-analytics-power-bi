@@ -1,11 +1,11 @@
 ### 📷 Dashboard Preview
 
 ![Overview](images/images/images/dashboard_overview.png)
-![Trend Analysis](images/trend_analysis.png)
-![Top Consultants](images/top_consultants.png)
-![Specialization](images/specialization_analysis.png)
-![Regional Analysis](images/regional_analysis.png)
-![Drill-Down](images/detailed_drilldown.png)
+![Trend Analysis](images/images/images/trend_analysis.png)
+![Top Consultants](images/images/images/top_consultants.png)
+![Specialization](images/images/images/specialization_analysis.png)
+![Regional Analysis](images/images/images/regional_analysis.png)
+![Drill-Down](images/images/images/detailed_drilldown.png)
 
 
 
