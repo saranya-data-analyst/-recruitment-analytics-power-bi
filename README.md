@@ -1,6 +1,6 @@
 ### 📷 Dashboard Preview
 
-![Overview](images/dashboard_overview.png)
+![Overview](images/images/images/dashboard_overview.png)
 ![Trend Analysis](images/trend_analysis.png)
 ![Top Consultants](images/top_consultants.png)
 ![Specialization](images/specialization_analysis.png)
